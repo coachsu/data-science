@@ -1,0 +1,5 @@
+[
+  {"Name":"Bob", "Id":"11201", "Gender":"M", "Department":"Data Science"},
+  {"Name":"Alice", "Id":"11202", "Gender":"F", "Department":"Statistics"},
+  {"Name":"John", "Id":"11203", "Gender":"M", "Department":"Computer Science"}
+]
