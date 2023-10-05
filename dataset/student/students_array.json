@@ -1,14 +1,14 @@
 [
-  {"Name":"Bob", "Id":"11201", "Gender":"M", "Department":"Data Science"},
-  {"Name":"Alice", "Id":"11202", "Gender":"F", "Department":"Statistics"},
-  {"Name":"Peter", "Id":"11203", "Gender":"M", "Department":"Data Science"},
-  {"Name":"Lee", "Id":"11204", "Gender":"M", "Department":"Data Science"},
-  {"Name":"Jerry", "Id":"11205", "Gender":"M", "Department":"Statistics"},
+  {"name":"Bob", "id":"11201", "gender":"M", "department":"Data Science"},
+  {"name":"Alice", "id":"11202", "gender":"F", "department":"Statistics"},
+  {"name":"Peter", "id":"11203", "gender":"M", "department":"Data Science"},
+  {"name":"Lee", "id":"11204", "gender":"M", "department":"Data Science"},
+  {"name":"Jerry", "id":"11205", "gender":"M", "department":"Statistics"},
   {},  
-  {"Name":"Steve", "Id":"11206", "Gender":"M", "Department":"Data Science"},
-  {"Name":"Steve", "Id":"11206", "Gender":"", "Department":"Data Science"},
-  {"Name":"Debby", "Id":"11207", "Gender":"F", "Department":"Computer Science"},
-  {"Name":"Joe", "Id":"11208", "Gender":"M", "Department":"Computer Science"},
-  {"Name":"May", "Id":"11209", "Gender":"F", "Department":"Data Science"},
-  {"Name":"John", "Id":"11210", "Gender":"M", "Department":"Computer Science"}
+  {"name":"Steve", "id":"11206", "gender":"M", "department":"Data Science"},
+  {"name":"Steve", "id":"11206", "gender":"", "department":"Data Science"},
+  {"name":"Debby", "id":"11207", "gender":"F", "department":"Computer Science"},
+  {"name":"Joe", "id":"11208", "gender":"M", "department":"Computer Science"},
+  {"name":"May", "id":"11209", "gender":"F", "department":"Data Science"},
+  {"name":"John", "id":"11210", "gender":"M", "department":"Computer Science"}
 ]

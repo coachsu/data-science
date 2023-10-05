@@ -1,4 +1,4 @@
-Name,Id,Gender,Department
+name,id,gender,department
 Bob,11201,M,Data Science
 Alice,11202,F,Statistics
 Peter,11203,M,Data Science

@@ -1,8 +1,8 @@
 {
-    "Name":["Bob","Alice","Peter","Lee","Jerry","","Steve","Steve","Debby","Joe","May","John"],
-    "Id":["11201","11202","11203","11204","11205","","11206","11206","11207","11208","11209","11210"],
-    "Gender":["M","F","M","M","M","","M","","F","M","F","M"],
-    "Department":[
+    "name":["Bob","Alice","Peter","Lee","Jerry","","Steve","Steve","Debby","Joe","May","John"],
+    "id":["11201","11202","11203","11204","11205","","11206","11206","11207","11208","11209","11210"],
+    "gender":["M","F","M","M","M","","M","","F","M","F","M"],
+    "department":[
         "Data Science",
         "Statistics",
         "Data Science",
