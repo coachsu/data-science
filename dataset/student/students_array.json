@@ -5,6 +5,7 @@
   {"Name":"Lee", "Id":"11204", "Gender":"M", "Department":"Data Science"},
   {"Name":"Jerry", "Id":"11205", "Gender":"M", "Department":"Statistics"},  
   {"Name":"Steve", "Id":"11206", "Gender":"M", "Department":"Data Science"},
+  {"Name":"Steve", "Id":"11206", "Gender":"", "Department":"Data Science"},
   {"Name":"Debby", "Id":"11207", "Gender":"F", "Department":"Computer Science"},
   {"Name":"Joe", "Id":"11208", "Gender":"M", "Department":"Computer Science"},
   {"Name":"May", "Id":"11209", "Gender":"F", "Department":"Data Science"},
