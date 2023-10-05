@@ -1,19 +1,44 @@
 {
-    "name":["Bob","Alice","Peter","Lee","Jerry","","Steve","Steve","Debby","Joe","May","John"],
-    "id":["11201","11202","11203","11204","11205","","11206","11206","11207","11208","11209","11210"],
-    "gender":["M","F","M","M","M","","M","","F","M","F","M"],
+    "name":[
+        "Bob","Alice","Peter","Lee","Jerry",
+        "","Steve","Steve","Debby","Joe",
+        "May","John","Ruby","Ray","Allen",
+        "Wendy","Lucy"
+    ],
+    "id":[
+        "11201","11202","11203","11204","11205",
+        "","11206","11206","11207","11208",
+        "11209","11210","11211","11212","11213",
+        "11214","11215"
+    ],
+    "gender":[
+        "M","F","M","M","M",
+        "","M","","F","M",
+        "F","M","F","M","M",
+        "F","F"
+    ],
+    "city":[
+        "Taipei","Taichung","Taipei","Kaohsiung","New Taipei",
+        "","Taipei","Taipei","New Taipei","Taichung",
+        "Taipei","New Taipei","Taipei","Kaohsiung","Taipei",
+        "Taipei","Kaohsiung"
+    ],
+    "phone":[
+        "0911111111","0922222222","0933333333","0944444444","0955555555",
+        "","0966666666","0966666666","0977777777","0988888888",
+        "0999999999","0912345678","0912121212","0934343434","0956565656",
+        "0978787878","0990909090"
+    ],
+    "gpa":[
+        "6","5","15","5","4",
+        "","5","5","7","6",
+        "1","5","6","5","4",
+        "1","13"
+    ],
     "department":[
-        "Data Science",
-        "Statistics",
-        "Data Science",
-        "Data Science",
-        "Statistics",
-        "",
-        "Data Science",
-        "Data Science",
-        "Computer Science",
-        "Computer Science",
-        "Data Science",
-        "Computer Science"
+        "Data Science","Appled Statistics","Data Science","Data Science","Applied Statistics",
+        "","Data Science","Data Science","Computer Science","Computer Science",
+        "Data Science","Computer Science","Data Science","Computer Science","Applied Statistics",
+        "Data Science","Computer Science"
     ]
 }

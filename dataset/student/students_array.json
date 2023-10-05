@@ -1,14 +1,20 @@
 [
-  {"name":"Bob", "id":"11201", "gender":"M", "department":"Data Science"},
-  {"name":"Alice", "id":"11202", "gender":"F", "department":"Statistics"},
-  {"name":"Peter", "id":"11203", "gender":"M", "department":"Data Science"},
-  {"name":"Lee", "id":"11204", "gender":"M", "department":"Data Science"},
-  {"name":"Jerry", "id":"11205", "gender":"M", "department":"Statistics"},
+  {"name":"Bob","id":"11201","gender":"M","city":"Taipei","phone":"0911111111","gpa":6,"department":"Data Science"},
+  {"name":"Alice","id":"11202","gender":"F","city":"Taichung","phone":"0922222222","gpa":5,"department":"Applied Statistics"},  
+  {"name":"Peter","id":"11203","gender":"M","city":"Taipei","phone":"0933333333","gpa":15,"department":"Data Science"},
+  {"name":"Lee","id":"11204","gender":"M","city":"Kaohsiung","phone":"0944444444","gpa":5,"department":"Data Science"},
+  {"name":"Jerry","id":"11205","gender":"M","city":"New Taipei","phone":"0955555555","gpa":4,"department":"Applied Statistics"},
   {},  
-  {"name":"Steve", "id":"11206", "gender":"M", "department":"Data Science"},
-  {"name":"Steve", "id":"11206", "gender":"", "department":"Data Science"},
-  {"name":"Debby", "id":"11207", "gender":"F", "department":"Computer Science"},
-  {"name":"Joe", "id":"11208", "gender":"M", "department":"Computer Science"},
-  {"name":"May", "id":"11209", "gender":"F", "department":"Data Science"},
-  {"name":"John", "id":"11210", "gender":"M", "department":"Computer Science"}
+  {"name":"Steve","id":"11206","gender":"M","city":"Taipei","phone":"09666666","gpa":5,"department":"Data Science"},
+  {"name":"Steve","id":"11206","gender":"","city":"Taipei","phone":"09666666","gpa":5,"department":"Data Science"},
+  {"name":"Debby","id":"11207","gender":"F","city":"New Taipei","phone":"0977777777","gpa":7,"department":"Computer Science"},
+  {"name":"Joe","id":"11208","gender":"M","city":"Taichung","phone":"0988888888","gpa":6, "department":"Computer Science"}, 
+  {"name":"May","id":"11209","gender":"F","city":"Taipei","phone":"0999999999","gpa":1, "department":"Data Science"},
+  {"name":"John","id":"11210","gender":"M","city":"New Taipei","phone":"0912345678","gpa":5,"department":"Computer Science"},
+
+  {"name":"Ruby","id":"11211","gender":"F","city":"Taipei","phone":"0912121212","gpa":6,"department":"Data Science"},
+  {"name":"Ray","id":"11212","gender":"M","city":"Kaohsiung","phone":"0934343434","gpa":5,"department":"Computer Science"},
+  {"name":"Allen","id":"11213","gender":"M","city":"Taipei","phone":"0956565656","gpa":4,"department":"Applied Statistics"},
+  {"name":"Wendy","id":"11214","gender":"F","city":"Taipei","phone":"0978787878","gpa":1,"department":"Data Science"},
+  {"name":"Lucy","id":"11215","gender":"F","city":"Kaohsiung","phone":"0990909090","gpa":13,"department":"Computer Science"}
 ]
