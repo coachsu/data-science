@@ -1,0 +1,6 @@
+{
+    "Name":["Bob","Alice","John"],
+    "Id":["11201","11202","11203"],
+    "Gender":["M","F","M"],
+    "Department":["Data Science","Statistics","Computer Science"]
+}
