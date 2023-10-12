@@ -4,8 +4,8 @@ Id,Name,Birthday,Gender,IsTeacher,Students,Country,City
 333,Alice,19/04/2000,F,0,0,Spain,Madrid
 444,Mark,01/11/1997,M,0,0,France,Paris
 555,Alex,15-03-2000,A,1,23,Germany,Berlin
-555,Peter,1983/12/01,M,1,10,Italy,Rome
+555,Peter,1983/12/01,M,1,10,,Rome
 777,Calvin,05/05/1995,M,0,0,Italy,Italy
-888,Roxane,03/08/1948,F,0,0,Portugal,Lisbon
+888,Roxane,03/08/1948,F,0,0,Portugal,
 999,Anne,05/09/1992,F,0,5,Switzerland,Geneva
 101010,Paul,14/11/1992,M,1,26,Ytali,Rome
