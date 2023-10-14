@@ -1,6 +1,6 @@
 Id,Name,Birthday,Gender,IsTeacher,Students,Country,City
 111,John,31/12/1990,M,0,0,Ireland,Dublin
-222,Mery,15/10/1978,F,1,15,Iceland,
+222,Mery,15/10/1978,F,1,15,,
 333,Alice,19/04/2000,F,0,0,Spain,Madrid
 444,Mark,01/11/1997,M,0,0,France,Paris
 555,Alex,15-03-2000,A,1,23,Germany,Berlin
