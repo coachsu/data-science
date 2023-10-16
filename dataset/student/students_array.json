@@ -7,9 +7,9 @@
   {},  
   {"name":"Steve","id":"11206","gender":"M","city":"Taipei","phone":"09666666","gpa":8,"department":"Data Science"},
   {"name":"Steve","id":"11206","gender":"M","city":"Taipei","phone":"09666666","gpa":7,"department":"Data Science"},
-  {"name":"Debby","id":"11207","gender":"","city":"New Taipei","phone":"0977777777","gpa":7,"department":"Computer Science"},
+  {"name":"Debby","id":"11207","gender":"F","city":"New Taipei","phone":"0977777777","gpa":7,"department":"Computer Science"},
   {"name":"Joe","id":"11208","gender":"M","city":"Taichung","phone":"0988888888","gpa":6, "department":"Computer Science"}, 
-  {"name":"May","id":"11209","gender":"F","city":"Taipei","phone":"0999999999","gpa":10, "department":"Data Science"},
+  {"name":"May","id":"11209","gender":"","city":"Taipei","phone":"0999999999","gpa":10, "department":"Data Science"},
   {"name":"John","id":"11210","gender":"M","city":"New Taipei","phone":"0912345678","gpa":5,"department":"Computer Science"},
 
   {"name":"Ruby","id":"11211","gender":"F","city":"Taipei","phone":"0912121212","gpa":6,"department":"Data Science"},
