@@ -1,8 +1,8 @@
 name,id,gender,city,phone,gpa,department
-Bob,11201,M,Taipei,0911111111,6,Data Science
+Bob,11201,M,Taipei,0911111111,8,Data Science
 Alice,11202,F,Taichung,0922222222,5,Applied Statistics
 Peter,11203,M,Taipei,0933333333,15,Data Science
-Lee,11204,M,Kaohsiung,0944444444,5,Data Science
+Lee,11204,M,Kaohsiung,0944444444,7,Data Science
 Jerry,11205,M,New Taipei,0955555555,4,Applied Statistics
 ,,,,,,
 Steve,11206,M,Taipei,0966666666,8,Data Science
@@ -11,7 +11,7 @@ Debby,11207,F,New Taipei,0977777777,7,Computer Science
 Joe,11208,M,Taichung,0988888888,6,Computer Science
 May,11209,,Taipei,0999999999,10,Data Science
 John,11210,M,New Taipei,0912345678,5,Computer Science
-Ruby,11211,F,Taipei,0912121212,6,Data Science
+Ruby,11211,F,Taipei,0912121212,9,Data Science
 Ray,11212,M,Kaohsiung,0934343434,9,Computer Science
 Allen,11213,M,Taipei,0956565656,4,Applied Statistics
 Wendy,11214,F,Taipei,0978787878,1,Data Science
